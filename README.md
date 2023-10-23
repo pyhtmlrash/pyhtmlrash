@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyrahul
+- 👋 Hi, I’m rahul
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...
